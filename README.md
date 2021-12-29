@@ -55,7 +55,7 @@ Once the Ultrasonic Range Detector Sensor and the servo motor are connected to t
 
 After 3 seconds, the lid will be close, and a telemetry message will be sent to Azure IoT. 
 
-<img src="img/Wio-Feeder-Demo-Azure-Iot-Telemetry.gif" width="350"/>
+<img src="img/Wio-Feeder-Demo-Azure-Iot-Telemetry.gif" width="650"/>
 
 
 You can use the [Azure IoT Explorer](https://github.com/Azure/azure-iot-explorer/releases) to test that your Wio Terminal is properly connected to Azure IoT Hub, i.e that it is regularly sending telemetry data, and responding to commands.
