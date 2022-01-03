@@ -16,11 +16,11 @@ As the Wio Terminal is one of PlatformIO's (many!) supported platforms, the samp
 
 The main components for this project are from [SeeedStudio](https://www.seeedstudio.com/). In this version we use popular and easy to use components.
 
-- [Wio Terminal](URL "https://www.seeedstudio.com/wio-terminal")
-- [Ultrasonic Range Detector](URL "https://www.seeedstudio.com/Grove-Ultrasonic-Distance-Sensor.html")
-- [Servo Motor](URL "https://www.seeedstudio.com/Grove-Servo.html")
+- [Wio Terminal](https://www.seeedstudio.com/wio-terminal)
+- [Ultrasonic Range Detector](https://www.seeedstudio.com/Grove-Ultrasonic-Distance-Sensor.html)
+- [Servo Motor](https://www.seeedstudio.com/Grove-Servo.html)
 
-Why [Grove Sensors and Actuators](URL "https://www.seeedstudio.com/category/Grove-c-1003.html")?, to avoid dealing with wires and soldering. Grove is an open-source, modulated, and ready-to-use toolset. Grove simplifies the learning process significantly.
+Why [Grove Sensors and Actuators](https://www.seeedstudio.com/category/Grove-c-1003.html)?, to avoid dealing with wires and soldering. Grove is an open-source, modulated, and ready-to-use toolset. Grove simplifies the learning process significantly.
 
 Go build the feeder I bought a $2 bird feeder, and I created a funnel with a lid to deliver the nuts for the squirrels. It was a DIY project, and in near iterations and I may think on a complete design for 3D printers.
 
@@ -32,7 +32,7 @@ Here is the feeder in action:
 
 The code for the Wio Terminal, is based on the samples from 
 
-### [IoT for Beginners](URL "https://aka.ms/iot-beginners")
+### [IoT for Beginners](https://aka.ms/iot-beginners)
 
 If you want to learn from zero how to create a complete solution for Azure IoT, I strongly advice you to follow the tutorial. (Bonus: it’s super fun!).
 
@@ -62,16 +62,13 @@ You can use the [Azure IoT Explorer](https://github.com/Azure/azure-iot-explorer
 
 ## Additional Resources
 
-In my personal blog "[ElBruno](URL "https://elbruno.com")", I wrote about several scenarios on how to work and code for the Wio Terminal. These links may help to understand specific implementations of the sample code:
+In my personal blog "[ElBruno.com](https://elbruno.com)", I wrote about several scenarios on how to work and code for the Wio Terminal. These links may help to understand specific implementations of the sample code:
 
-- [WioTerminal – Working with servos 🦾](URL "https://elbruno.com/2021/12/13/wioterminal-working-with-servos-%f0%9f%a6%be-code-and-platformio_org/")
-- [WioTerminal – Connecting to Wifi 📶, online information in TFT 📺](URL "https://elbruno.com/2021/12/10/wioterminal-connecting-to-wifi-%f0%9f%93%b6-online-information-in-tft-%f0%9f%93%ba-code-and-platformio_org/")
-- [WioTerminal – Display a countdown progress bar 🚥](URL "https://elbruno.com/2021/11/03/wioterminal-display-a-countdown-progress-bar-%f0%9f%9a%a5-for-the-next-azureiot-%e2%98%81%ef%b8%8f-refresh-data/")
-- [WioTerminal – Display a Door 🚪 state using XBitmap](URL "https://elbruno.com/2021/11/01/wioterminal-display-a-digitaltwin-door-%f0%9f%9a%aa-state-using-xbitmal-with-azureiot-%e2%98%81%ef%b8%8f/")
-- [WioTerminal – Buttons and Charts time 📊📉📊](URL "https://elbruno.com/2021/10/19/wioterminal-buttons-and-charts-time-%f0%9f%93%8a%f0%9f%93%89%f0%9f%93%8a/")
-
-
-
+- [WioTerminal – Working with servos 🦾](https://elbruno.com/2021/12/13/wioterminal-working-with-servos-%f0%9f%a6%be-code-and-platformio_org/)
+- [WioTerminal – Connecting to Wifi 📶, online information in TFT 📺](https://elbruno.com/2021/12/10/wioterminal-connecting-to-wifi-%f0%9f%93%b6-online-information-in-tft-%f0%9f%93%ba-code-and-platformio_org/)
+- [WioTerminal – Display a countdown progress bar 🚥](https://elbruno.com/2021/11/03/wioterminal-display-a-countdown-progress-bar-%f0%9f%9a%a5-for-the-next-azureiot-%e2%98%81%ef%b8%8f-refresh-data/)
+- [WioTerminal – Display a Door 🚪 state using XBitmap](https://elbruno.com/2021/11/01/wioterminal-display-a-digitaltwin-door-%f0%9f%9a%aa-state-using-xbitmal-with-azureiot-%e2%98%81%ef%b8%8f/)
+- [WioTerminal – Buttons and Charts time 📊📉📊](https://elbruno.com/2021/10/19/wioterminal-buttons-and-charts-time-%f0%9f%93%8a%f0%9f%93%89%f0%9f%93%8a/)
 
 
 ## Author
