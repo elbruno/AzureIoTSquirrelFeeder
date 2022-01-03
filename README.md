@@ -14,7 +14,7 @@ As the Wio Terminal is one of PlatformIO's (many!) supported platforms, the samp
 
 ## Required Hardware
 
-The main components for this project are from [SeeedStudio](URL "https://www.seeedstudio.com/"). In this version we use popular and easy to use components.
+The main components for this project are from [SeeedStudio](https://www.seeedstudio.com/). In this version we use popular and easy to use components.
 
 - [Wio Terminal](URL "https://www.seeedstudio.com/wio-terminal")
 - [Ultrasonic Range Detector](URL "https://www.seeedstudio.com/Grove-Ultrasonic-Distance-Sensor.html")
