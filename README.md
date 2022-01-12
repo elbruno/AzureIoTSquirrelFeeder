@@ -64,8 +64,8 @@ You can use the [Azure IoT Explorer](https://github.com/Azure/azure-iot-explorer
 
 You can check a session recording about this topic in English and Spanish.
 
-- Eng - [Using Azure IoT to feed my squirrels 🐿️](https://www.youtube.com/watch?v=hRvMbVoJlAs)
-- Spa - [Utilizando Azure IoT para darle de comer a mis ardillas 🐿️](https://www.youtube.com/watch?v=FwGKBLCXxqg)
+- Eng - [Using Azure IoT to feed my squirrels 🐿️](https://aka.ms/IoTtoFeedSquirrels)
+- Spa - [Utilizando Azure IoT para darle de comer a mis ardillas 🐿️](https://aka.ms/ReactorSession1.6)
 
 In my personal blog "[ElBruno.com](https://elbruno.com)", I wrote about several scenarios on how to work and code for the Wio Terminal. These links may help to understand specific implementations of the sample code:
 
