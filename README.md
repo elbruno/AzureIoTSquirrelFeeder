@@ -62,6 +62,11 @@ You can use the [Azure IoT Explorer](https://github.com/Azure/azure-iot-explorer
 
 ## Additional Resources
 
+You can check a session recording about this topic in English and Spanish.
+
+- Eng - [Using Azure IoT to feed my squirrels 🐿️](https://www.youtube.com/watch?v=hRvMbVoJlAs)
+- Spa - [Utilizando Azure IoT para darle de comer a mis ardillas 🐿️](https://www.youtube.com/watch?v=FwGKBLCXxqg)
+
 In my personal blog "[ElBruno.com](https://elbruno.com)", I wrote about several scenarios on how to work and code for the Wio Terminal. These links may help to understand specific implementations of the sample code:
 
 - [WioTerminal – Working with servos 🦾](https://elbruno.com/2021/12/13/wioterminal-working-with-servos-%f0%9f%a6%be-code-and-platformio_org/)
