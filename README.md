@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](/LICENSE)
 [![Twitter: elbruno](https://img.shields.io/twitter/follow/elbruno.svg?style=social)](https://twitter.com/kartben)
-[![PlatformIO CI](https://github.com/kartben/wioterminal-azureiothub-sample/workflows/PlatformIO%20CI/badge.svg)](https://github.com/elbruno/AzureIoTSquirrelFeeder/actions?query=workflow%3A%22PlatformIO+CI%22)
+![GitHub: elbruno](https://img.shields.io/github/followers/elbruno?style=social)
 
 During the last couple of months, I’ve having fun with my new friends at home: 🐿️🐿️🐿️. These little ones, are extremelly funny, and they literally don’t care about the cold 🥶❄️☃️.
 
